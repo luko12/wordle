@@ -1,6 +1,6 @@
 # Wordle
 
-A Python implementation of the NYT Wordle game. See my first attempt in attempt.py, and an improved solution with explanation in solution.py. Received inputs from CLI
+A Python implementation of the NYT Wordle game. See my first attempt in attempt.py, and an improved solution with explanation in solution.py. These implementations receive user inputs from the CLI.
 
 Also note the wordle hack:
 1. Obtain correct word of the day from [Wordle](https://www.nytimes.com/games/wordle/index.html)
